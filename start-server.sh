@@ -1,0 +1,1 @@
+/usr/bin/env /usr/lib/jvm/java-11-openjdk-11.0.15.0.10-1.fc36.x86_64/bin/java @/tmp/cp_6k6u1afd3b024ocwsr1vpkumt.argfile com.microservice.msworker.MsworkerApplication 
