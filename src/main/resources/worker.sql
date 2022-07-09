@@ -1,0 +1,1 @@
+INSERT INTO worker (id, name, daily_income) VALUES (null, "David", 256.54), (null, "Carl", 210.15);
